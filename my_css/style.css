@@ -1,0 +1,25 @@
+
+ol, ul{
+    list-style:none;
+    
+}
+
+h1{
+    text-align:center;
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    
+}
+
+footer{
+    text-align:center;
+    color:#ffffff;
+    background-color:#23263c;
+    
+}
+
+footer li{
+    background-color: Green;
+}   
